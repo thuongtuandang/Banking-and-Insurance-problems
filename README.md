@@ -4,7 +4,7 @@ Here are my projects on insurance and banking problems.
 
 # Car insurance
 
-The data consists of 10k records and 19 features. It is available at: 
+The data consists of 10.000 records and 19 features. It is available at: 
 
 https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
@@ -12,7 +12,7 @@ There are missing values in the data, and I used LGBM for imputation. The best a
 
 # Credit score classification
 
-The data consists of 100k rows and 28 features. It is available at:
+The data consists of 100.000 rows and 28 features. It is available at:
 
 https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
@@ -26,7 +26,7 @@ The best accuracy score with LGBM is 77%
 
 # Insurance charges
 
-The data consists of more than 1.3k records and 7 features. It is available at:
+The data consists of more than 1300 records and 7 features. It is available at:
 
 https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 
